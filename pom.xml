@@ -5,7 +5,7 @@
 
     <groupId>com.github.ihrigtil</groupId>
     <artifactId>parent</artifactId>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
     <version>1.8.0</version>
     <modules>
         <module>jfxrt</module>

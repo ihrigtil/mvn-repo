@@ -10,4 +10,5 @@
     </parent>
     
     <artifactId>semafor</artifactId>
+    <packaging>jar</packaging>
 </project>
