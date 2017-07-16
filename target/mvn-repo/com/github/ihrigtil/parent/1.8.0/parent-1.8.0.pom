@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.ihrigtil</groupId>
-    <artifactId>jfxrt</artifactId>
-    <packaging>jar</packaging>
+    <artifactId>parent</artifactId>
+    <packaging>pom</packaging>
     <version>1.8.0</version>
     
     <distributionManagement>
